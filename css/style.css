@@ -17,6 +17,7 @@ main {
 footer {
   position: relative;
   float: left;
+  bottom: 0;
   width: 100%;
   height: 100%; }
 
@@ -74,6 +75,9 @@ li .active {
   min-width: 251px;
   height: 61px;
   min-height: 61px; }
+
+#empresa {
+  min-height: 443px; }
 
 :disabled {
   cursor: not-allowed; }
