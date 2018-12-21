@@ -32,9 +32,6 @@ footer {
   padding-top: 80px;
   margin-top: -80px; }
 
-.titleContato {
-  margin-top: 80px !important; }
-
 li .active {
   border-bottom: 2px solid #ffc107;
   color: #ffc107; }
